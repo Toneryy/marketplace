@@ -1,0 +1,120 @@
+body {
+    font-family: Poppins;
+    font-size: 16.0px;
+    font-weight: 500;
+    line-height: 24.0px;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+}
+
+.wrapper {
+    padding-top: 100px;
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+
+.sale-now {
+    width: 100%;
+    position: fixed;
+    height: 48px;
+    color: white;
+    background: black;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+
+.sale-now-line {
+    height: 18px;
+    width: 859px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.saleNowText {
+    width: 474px;
+    line-height: 21px;
+    letter-spacing: 0%;
+    text-align: left;
+    padding-right: 8px;
+}
+
+
+.shop-now {
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: center;
+    text-decoration-line: underline;
+    color: #fff;
+}
+
+
+.change-language {
+    color: #fff;
+}
+
+
+.header-line {
+    height: 38px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.header-logo {
+    width: 118px;
+    height: 24px;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: left;
+    padding-right: 190px;
+}
+
+
+.header-item {
+    height: 24px;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: left;
+    padding-right: 48px;
+}
+
+
+.header-item:last-child {
+    padding-right: 0px;
+}
+
+
+.header-search {
+    width: 243px;
+}
+
+
+.favorite {
+    width: 20px;
+    height: 17.83px;
+    padding-right: 16px;
+}
+
+
+.cart {
+    margin-top: -4px;
+    width: 32px;
+    height: 32px;
+}
+
+
+.left-menu {
+
+}
+
+
